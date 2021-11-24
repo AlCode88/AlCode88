@@ -9,4 +9,5 @@
 - 📫 How to reach me: In gitHub
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:
-![AlCode88 GitHub Status](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+![AlCode88 GitHub Status](https://github-readme-stats.vercel.app/api?username=AlCode88&theme=dark&show_icons=true)
