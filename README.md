@@ -1,4 +1,4 @@
-# Hello Beatiful People This is AlCode88(Talant) 👋
+# Hello Beatiful People This is AlCode88 👋
 **AlCode88/AlCode88**
 
 - 🔭 I’m currently working on Lambda on AWS
