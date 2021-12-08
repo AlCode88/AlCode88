@@ -13,4 +13,5 @@
 - Currently Learnining CF
 
 ![AlCode88 GitHub Status](https://github-readme-stats.vercel.app/api?username=AlCode88&theme=dark&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFA500)
-![images](./images/i1.PNG)
+
+![images](i1.PNG)
