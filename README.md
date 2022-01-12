@@ -1,4 +1,4 @@
-# Hello my beatiful people 👋
+#  👋
 **Knowledge is not only Power! Knowledge is the profit!**
 
 - 🔭 I’m currently working on Lambda on AWS
